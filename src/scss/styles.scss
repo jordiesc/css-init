@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/bootstrap";
+
+micontainer {
+
+    background-color: cyan;
+}
+
+.fondoazul {
+    background-color: blue;
+    border: 10px solid cyan
+    
+}
+
+.container {
+    border-color: black;
+    border-style: dashed;
+    border-width: 4px;
+}
+
+.row {
+    border: 2px dotted red;
+}
+
+.my-col {
+    border: 2px solid blue;
+}
